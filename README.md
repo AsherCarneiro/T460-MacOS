@@ -1,4 +1,4 @@
-# MacOS BigSur T460 💻
+# MacOS BigSur T460 💻🧙‍♂️
 ## Install macOS on the ThinkPad T460 (Powered by OpenCore)
 
 ### Before you continue, let's change to these BIOS Settings for better compatibility
